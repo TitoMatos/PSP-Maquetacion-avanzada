@@ -1,4 +1,4 @@
-# PSP-Maquetaci-n-avanzada
+# PSP-Maquetacion-avanzada
 Consola de videojuegos con HTML y CSS.
 
 Haran con HTML y CSS una consola de videojuegos con todo los elementos que tiene.
